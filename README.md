@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a [hosted service](https://github.com/piekstra/tplink-kasa-ui) to [manage TP-Link Kasa smart home devices](https://github.com/piekstra/tplink-cloud-api)
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence in Georgia Tech's OMSCS Program
 - 👯 I’m looking to collaborate on decentralized applications (smart contracts, etc.)
 - 💬 Ask me about automation, cryptocurrency, serverless applications
 - 😄 Pronouns: he/him/his
