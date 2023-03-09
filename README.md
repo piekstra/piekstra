@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a [hosted service](https://github.com/piekstra/tplink-kasa-ui) to [manage TP-Link Kasa smart home devices](https://github.com/piekstra/tplink-cloud-api)
 - 👯 I’m looking to collaborate on decentralized applications (smart contracts, etc.)
-- 💬 Ask me about automation, cryptocurrency, serverless applications
+- 💬 Ask me about automation, finances, serverless applications
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I frequently have 12 or more shots of espresso per day
 
