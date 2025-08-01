@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [hosted service](https://github.com/piekstra/tplink-kasa-ui) to [manage TP-Link Kasa smart home devices](https://github.com/piekstra/tplink-cloud-api)
-- 👯 I’m looking to collaborate on decentralized applications (smart contracts, etc.)
-- 💬 Ask me about automation, finances, serverless applications
+- 🔭 I’m currently working on secret projects
+- 💬 Ask me about automation, finances, developing on AWS
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I frequently have 12 or more shots of espresso per day
+- ⚡ Fun fact: I make latte art with my espresso every morning
 
 ## Connect with me:
 
