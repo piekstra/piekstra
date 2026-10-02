@@ -5,6 +5,12 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I make latte art with my espresso every morning
 
+## Organizations
+
+- [**Huishouden**](https://github.com/huishouden): installable household apps (spending, tasks, baby) on one shared kit
+- [**Open CLI Collective**](https://github.com/open-cli-collective): command-line tools and MCP servers for everyday services (Google, Slack, Atlassian, code review)
+- [**Mine Your Business**](https://github.com/mine-your-business): API clients and serverless tools for crypto and personal finance
+
 ## Connect with me:
 
 [<img align="left" alt="Piekstra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
