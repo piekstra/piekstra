@@ -7,6 +7,7 @@
 
 ## Organizations
 
+- [**Own Your Health**](https://github.com/own-your-health): command-line tools that get a household's health records out of patient portals, insurers and labs into its own Google Drive, and a web app that reads them
 - [**Huishouden**](https://github.com/huishouden): installable household apps (spending, tasks, baby) on one shared kit
 - [**Open CLI Collective**](https://github.com/open-cli-collective): command-line tools and MCP servers for everyday services (Google, Slack, Atlassian, code review)
 - [**Mine Your Business**](https://github.com/mine-your-business): API clients and serverless tools for crypto and personal finance
