@@ -42,3 +42,8 @@
 ![Piekstra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piekstra&show_icons=true)
 
 [linkedin]: https://www.linkedin.com/in/calebpiekstra/
+
+## License
+
+Copyright (C) 2026 Caleb Piekstra. Licensed under the GNU Affero General Public
+License, version 3 only (AGPL-3.0-only); see [LICENSE](LICENSE).
